@@ -1,6 +1,6 @@
 def run():
     algoritmo = int(input('Elige un algoritmo para encontrar la raiz cuadrada: Escribe el número 1 para enumeración exhaustiva, 2 para aproximación y 3 para búsqueda binaria: '))
-
+    """ Prueba para leer documentación"""
     if algoritmo == 1:
         print('Elegiste enumeración exhaustiva')
         objetivo = int(input('Escoge un número entero y te regreso su raiz cuadrada exacta: '))
